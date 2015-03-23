@@ -1,2 +1,2 @@
-# Phportifolio
-PHP SVN Portifolio CS 242 
+# Phportfolio
+PHP SVN Portfolio CS 242 
