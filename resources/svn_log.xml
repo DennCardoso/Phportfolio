@@ -1,0 +1,3746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="4255">
+<author>dcardos3</author>
+<date>2015-03-16T04:11:09.507508Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/ac/e42c6cff94c581de7f0212c7bc3e2bcb52142f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/47/b5fcb79bd91ac0e568c7f758c36f3f05f61b9b</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/f0/98ab77248ea2017bfc9324f37422b9c6a07dba</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/4a/99ca196a3d1e104ae788fdcb00b5344bc82478</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/a9/70b4e9cbe1e6baecb46b6bf60e5819840eb41c</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/Controller/Graph/dijkstra.rb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/bin/setup</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/Resources</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/fa/94a1a6f8da745c1edf25afdeb4408e677fe6e1</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/src/pieces/King.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/55/a297e3bdd146995d3bce2ec6e6dd8c54c72e2a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/20/d9e9802f9bbdb59828dd4addfca5e407ec8bc6</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/GUI</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/e9/9043c838b01464daff4888918c502a48d19078</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/logs/refs/heads/master</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/94/336f35edd9e5fcfe3c3234291a3c8e239573c9</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/57/9af63c877bf3042dc2632e6cfce4a4609ac543</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/f2/7679515c46eb6d82f677600e7741415c617595</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/d8/2104827f5a30f53d9c0af46fa8c8df03a6b83a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/b6/2f4b345dee3595955dea0f735053bbffa1026f</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/Models/edge.rb</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/1f/050c5b4bb7fc6096d23c61ccd282d58b8b967b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/refs/tags</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/69/68cc079fe032739edfe0e661d8e4c94ca8d166</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/config</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/8a/b2f173d31bb9d828e3c6dcbd85ae4d0bd236c2</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/08/ac7fe5cc265e66ba96894e72a406c2262502ff</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/hooks/prepare-commit-msg.sample</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/3b/1c40de521b8f18df8b50f350c54e3fb5422b1e</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/6f/0dd8be8fab7127c339c37992b1ad5762a3aaf1</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/01</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/44/efc0b1cf759a1aa7c2732dd663fe1c113682e0</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/src/gameplay/Game.java</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/04</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/05</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/50/89db2dd01d677a814b9d7c0110abc65a5f2bd9</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/06</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/refs/heads/master</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/08</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/Resources/cmi_hub.json</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/definition/CheckStatus.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/59/1af0682d3490074adf015807b0482de5ea94e3</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/hooks/pre-rebase.sample</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/a0/c59c16abaa8ab12734635dadd38643060c36bd</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/ce/9c94c39166ca6820bfcfe372adec3ffcc5fd2d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/.classpath</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/COMMIT_EDITMSG</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/27/9332f87efd11081aea9afe3dd3c118100b8c72</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/36/23814d3a951d2586626435e6338f5c54ba9223</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/f9/c35f57e0978f18e345041ec96724a78b29458b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/8c/79cadee49a1dbeeb4e28b8bca95bc82c797f3a</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/14</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/15</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/16</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/b6/e6cd2c69e5e20b1d17f8fe7979ca17543becdd</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/bd/98092f675c8861b8468d408b3f9100de01cb04</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/94/204957dd0572e86c0b6a665f21b6f0c3cfe8c6</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/0c</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/0d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/2f/82bcafd67e81b33d0be7d76d88a935f24f3ca5</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/0e</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/53/96e57ecf662bb2c0b589cbac0e3347f78af091</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/refs/remotes/origin</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/29/bfad4b3335acd9c3ad804a570404a1050cade8</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/src/test/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/33/2642a7cd290c3f7d45c576629873406162796b</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/pieces/King.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/test/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/Models/metro.rb</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/20</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/2e/c5f739bc69fa298cea41b3deb5d1405c70619b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/21</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/53/faee95443c28e2eb4aac551e9bb086f5cc1c8f</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/22</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/97/e4db88890ed01e862b1aed389d017a29cf640a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/23</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/25</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/26</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/94/a25f7f4cb416c083d265558da75d457237d671</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/27</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/29</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/03/4368ebf7cbb49a058e09611049539e3351d048</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/hooks/pre-applypatch.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/1a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/1c</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/1d</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/1f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/4d/af74e1b71101ec5b863e695f0cc8d33a6ccf29</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/01</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/25/5eea47377b9dd3c8cb09d5bdd36934ddcdd738</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/03</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/d6/e4fd76be18b746d6552f57a528a1bb63b1b1fd</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/04/d903a973defb1ed64b18f1fef2ca42b992024f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/CODE_OF_CONDUCT.md</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/f6/41d34f8331f29200bb9e8646d03466fe293d30</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/hooks/pre-commit.sample</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/08</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/logs/refs/remotes</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/14/ebdb3c6c03f5eb084f84f7ac8a109fc7b0ef3b</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/30</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/31</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/01/897c34cf0f85a3ad27563a98906b2fd2aa9ce2</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.2/Dennis_Chess/bin/pieces</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/32</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/33</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/59/e379094530a889969a55ea2f71afb09808d6f8</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/35</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/52/0cc3da012c01ad5eb27bfe25a8b3403371ec16</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/36</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/22/25f6f643683e47305b6b3b05cfae05ae2167fc</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/Dennis_Chess.iml</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/37</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/38</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/49/eee92cc921724221a90a56779e6746c7d0f264</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/ab/6596c7a14355c6dc32d9c9ae81ac7d1f4690e1</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/test/PawnTest.java</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/info</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/e4/3ebf814ae0bd160f1abda91ce61e900819c30d</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/2e</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/2f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/50/c41b434b6d9ad2538da8c69170464b34ccb571</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/92/2003b8433bcad6ce9778a37628d738faa26389</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/fb/319feac26a9f52e39f6e93c4f99fd9ca3b280e</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/10</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/30/49416d08aac0cebca2adf76db87f0e001fcea8</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/test/QueenTest.class</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/14</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/gameplay/Position.java</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/15</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/1f/88198466788519b02ffe61eef719a3cff63cff</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/16</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/23/392d80ae3ab30ded4560043735d9ef73922e41</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/GUI/GameController.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/ef/0f719c39582f0ccd1748f84cede0b5c26a902e</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.yardoc/objects/root.dat</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/Rakefile</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/0c/b6eeb0676e0d425ed7ddc8b444bb8bbb9a9797</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/40</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/1c/9b103d0788cea5ef61b433db33d8a5ff31c336</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/27/684128909c9ac2a8a48e4164f1eddc1f14435d</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/44</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/logs/refs/heads/master</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/47</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/branches</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/49</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/0c</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/0e</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/3b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/b6/c721decf095874315416d70b65c98ea9b0a80e</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/gameplay/Board.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/8e/cc724bd721fc078c4106a79653ab5e07948ec3</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/HEAD</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/20</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/21</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/config</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/hooks/pre-push.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/d1/91c6cc083a8dfc63b8840934783c4bc0756df7</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/22</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/dc/d258e788b8ee4429054f4c3d38a8eed9f19d6a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/23</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/ab/720731bcf294a4d682f87302addbb30db65e16</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/25</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/Controller/connect_map.rb</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/26</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/6c/f1209897a5f11d8dda15ea6171307a8836d55a</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/27</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/50</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/29</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/51</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/52</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/53</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/Models</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/55</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/c5/4743097a1a963917d3837a3637483197374d0c</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/57</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/59</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/1c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/b6/5ed50ff1f5631e5e1b29cb2bb3eab24a21fa87</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/1f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/hooks/pre-applypatch.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/mapStructure</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/d3/e4ee793f0c978442eebf4a510ac968ca191c22</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/logs/refs</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/definition</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4b</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/hooks/pre-push.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4d</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/pack</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4a/99ca196a3d1e104ae788fdcb00b5344bc82478</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/30</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/31</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/32</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/35</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/test/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/test/KnightTest.class</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/37</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/7c/2b89cb63c5186bb86ef8f069efb409caccfe9a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/e9/9043c838b01464daff4888918c502a48d19078</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/62</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/6c/594a75d2de7d4373b0a50b065d096b504ff898</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/d8/2104827f5a30f53d9c0af46fa8c8df03a6b83a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f2/7679515c46eb6d82f677600e7741415c617595</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/cf/983c3dfc658e68171d002a18bd79811ab3239b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/68</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/06/439dddf35e173fa0192026d24e37188f8c22c5</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/2f</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/5e</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/test</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/40</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/mapStructure/metroStructure.rb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/08/f4c8d29b4b78e2ae69a9f2b520b1ee01b0553b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/44</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/test/graphTest.rb</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/45</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/47</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/9d/f376debdcd1c8911c7383efa8685fec5e4550c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/62/1c99120d2983f2e0b1eba74d5298b3c0f434fe</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/49</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/74</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/77</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/3b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/definition/Team$Color.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/c9/a42558e982cf1714180d187c03de352dd1b0a5</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/6b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/6c</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/51/b38c8cf0a19c30a766d542fba4dd983670c2c9</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/6f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/78/fb69fd60dbe1763d46bb2a09dafb82d33f3236</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/50</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/51</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f9/c35f57e0978f18e345041ec96724a78b29458b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/52</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/53</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/f8/60597a052a297c9790c266d2046dc177b139bc</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/55</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/9d/38ed2bdabd57d0d41377133f041b15e7e8ba57</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/info/exclude</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/57</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/53/c59eb2b244332413bb834f3195a8429f37fbb3</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/80</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/pieces/Pawn.java</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/83</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/refs/heads</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/refs/tags</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/49/d44b65ce62c80120501201978e281dae07ba85</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/4a</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/88</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f0/d707741b9e6c67c21766cc7cac1c46e29145a2</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/8a/b48a8b7ba7981f5c818f8756de2493e499e955</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/4c</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/4d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/ac/47ab429eb5db756f813b014134e3b20a84a562</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/7a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/f6/662abc231936db471f9df968e4a9e9c5c09f91</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/test/RookTest.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/CSAir.rb</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/7c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/2f/82bcafd67e81b33d0be7d76d88a935f24f3ca5</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/gameplay</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/ab/ab8f0ed9569ba29fcee6e61489fd50caf8554c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/GUI/GameController.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/hooks/post-update.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/5e/d6bfed9a1c8b9eed256bfd7e1dab270b33ded8</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/62</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/src/pieces/Square.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/test/ReaderTest.rb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/29/bfad4b3335acd9c3ad804a570404a1050cade8</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/69</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/92</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/38/04fdfdeb9b0b6cbd64683263494480988bbac3</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/93</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/Models/graph.rb</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/94</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/hooks/update.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/CSAir/version.rb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/94/a25f7f4cb416c083d265558da75d457237d671</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.idea/runConfigurations</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/5e</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/15/fbc88fa6bff4a7961331d99fa98dccb68a3912</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/06/2f0d374585b04345ca788fe692ada48a1ae9b8</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/8a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/6b/f20fa3a5c96536f53c0e3cc8e6243db88baa48</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/c1/e0f7d1ffe3076dabe874272ea35b7e85790f94</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/8e</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/8f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4d/af74e1b71101ec5b863e695f0cc8d33a6ccf29</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.idea</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/hooks/commit-msg.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/70</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/25/5eea47377b9dd3c8cb09d5bdd36934ddcdd738</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/d6/e4fd76be18b746d6552f57a528a1bb63b1b1fd</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/72</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f6/41d34f8331f29200bb9e8646d03466fe293d30</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/74</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/GUI/ChessInterface.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/f5/456c2d3c48b26ddb1f9eaf49b52f8af0684cde</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/14/ebdb3c6c03f5eb084f84f7ac8a109fc7b0ef3b</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/logs/refs/remotes</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/78</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.yardoc/objects</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/22/22a83a187fa0b69eba96389d6921760481df97</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/info</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/README.md</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/6a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/ae/cd83520b7983d1d0426c56ceaf4c9d2bc28862</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/6b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/49/eee92cc921724221a90a56779e6746c7d0f264</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/62/cbd8ce315891a23fa210a146687ad42d8366d4</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/26/7a24958ccc90c608ee17ce3cf3437b98c3c180</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/ab/6596c7a14355c6dc32d9c9ae81ac7d1f4690e1</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/test/RookTest.java</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/6f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/47/83826e425856d823c01d6c1d52290b09d1a98f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/e4/3ebf814ae0bd160f1abda91ce61e900819c30d</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/b0/10c46c8c146b5272212f1ec659699101201359</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/9c</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/26/79c4bdc2ef99929763983c06d38f1bc747db71</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.2/Dennis_Chess/bin</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/9d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/92/2003b8433bcad6ce9778a37628d738faa26389</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/a3/0447d858d0e73a47d46322764d3677f0cb860a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/80</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/refs/heads</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/84</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/86</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/0c/b6eeb0676e0d425ed7ddc8b444bb8bbb9a9797</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/7a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/HEAD</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/37/d7896cff0be1dc9390f7537dda9c5f706523e6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/15/7f006d17ab31850578115eca9adf18d2668dc7</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/b6/e61b76141c7e792c7cbd8410644712b501b5d3</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/test/BishopTest.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/23/8d15b5fa84c084ea3c9801bc394e57be697fb2</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/92</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/93</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/94</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/95</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/97</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/Controller/Graph</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/4d/1b8c41714bd1f40105452aa225205889804e0a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/74/a8ac39248472fb2050cd57b2f69334155f5d8a</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/8c</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/32/d9d1bb407c8ac264500a4223097b216bf19ece</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/refs</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/interface</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/8e</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/8e/ea1c1d86d2e666a5e5cfc960338bbd6e963924</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/ad/e312945a0096a0c9aa245954431adc419fa88d</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/gameplay/Game.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/hooks/applypatch-msg.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/LICENSE.txt</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/16/95f9ced5216fbe4d036c5e9cb42974f1420b54</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/cf/983c3dfc658e68171d002a18bd79811ab3239b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/9c</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/9d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/e8/859ec9b2183f1693060a7be99f3eed4d8e2eac</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.idea/scopes</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/51/a874cd72a000fe91794465692814cc1680d614</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/logs/refs/remotes/origin</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/.settings</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/84/7e7f75be164d22d29f791a550592d81935d094</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/info</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/hooks/pre-commit.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/08/f4c8d29b4b78e2ae69a9f2b520b1ee01b0553b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/45/c23a9ca118185b1da0187d410d9930ccd6dca9</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/GUI/ChessInterface.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/definition/Team.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/c3/2842ef460d8d24eb28d3c7a31276473e5cde34</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/statement/OOBoardEx.java</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/refs/remotes/origin</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/80/9eb5616adcc0ebb78862099794489bd5b5b1a0</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/pack</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/6a/875f0a38734cb65b4d59c2ebdce85fb1f3fb4a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/51/b38c8cf0a19c30a766d542fba4dd983670c2c9</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.idea/.rakeTasks</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/ORIG_HEAD</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/95/13e2f4e25ce0125756540f73a6fa97d5c59ed7</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/0e/7262213809f2f0d74c6db7e84330ef4c0883a7</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/74/704db0b74468c8c7d55e46019e995f7829d7fc</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/8e/e749b91657dbcb9f60462cc95ed580e6b80aec</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/statement/OOBoardEx.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/7a/bf573724b17587a4db710d5d8d5cc981fe68bc</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/fb/562a8ab191a544adef1a813a5a8f52233ae4ff</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/logs</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f6/662abc231936db471f9df968e4a9e9c5c09f91</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/6b/487de535b51997a687b45b96be89e2a8a410f9</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/9c/2327ef9163ad49898af3a6335e6def80b1591f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/ab/ab8f0ed9569ba29fcee6e61489fd50caf8554c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/gameplay/Position.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/5e/d6bfed9a1c8b9eed256bfd7e1dab270b33ded8</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/52/379635d8296cbc31dfafe036230fe8b9894ce9</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/Models/route.rb</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/Controller</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/74/cf5b0d1ef8d7a60c97a45fbf0309ce7c699b64</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.2/Dennis_Chess/bin/test</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/logs/refs/heads</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/pieces/Rook.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/27/2e6ca11f4983d95161c6c3c2bfb2821e93bbc3</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/hooks/applypatch-msg.sample</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/gameplay/Player.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/refs/remotes/origin/master</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/93/fe99bae22b9280bc4fcdf606d0901fd5630074</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/interface/menu.rb</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/refs/remotes</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/6b/f20fa3a5c96536f53c0e3cc8e6243db88baa48</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/c1/e0f7d1ffe3076dabe874272ea35b7e85790f94</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/mapStructure/graphStructure.rb</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/info/exclude</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f5/456c2d3c48b26ddb1f9eaf49b52f8af0684cde</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/Gemfile.lock</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/21/2f1df20d5d453b533dbe181d8c25ed9c2c0c23</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/test/QueenTest.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/62/cbd8ce315891a23fa210a146687ad42d8366d4</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/26/7a24958ccc90c608ee17ce3cf3437b98c3c180</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/2e/8537f5cac58ba6f7d520edacc1c17463d8e8aa</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/fa/b697549ae42cb17988fa6f45e0fec87f81a2fb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/test/KingTest.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/Models/reader.rb</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/a0</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.idea/runConfigurations/Run_test__graphTest___CSAir.xml</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/6a/c0c6f1fafb13434af5a2875bf3cfb03821489e</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/test/VertexText.rb</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/77/ac556cfd39714a85949d820a63be6aba5eb13a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/bin</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/gameplay/Player.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/37/d7896cff0be1dc9390f7537dda9c5f706523e6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/d4/18bad7381cab74b3c700c387d83418d2db3162</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/test</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/15/7f006d17ab31850578115eca9adf18d2668dc7</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/32/09914cb54f7cf41e2787c67dd336b26b6d69df</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.yardoc/checksums</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/branches</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/b6/e61b76141c7e792c7cbd8410644712b501b5d3</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/Resources/map_data.json</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/23/8d15b5fa84c084ea3c9801bc394e57be697fb2</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/Controller/connection.rb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/Controller/Graph/input.rb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/06/f47a4d855b89a33979d94521d8ea64a1f21352</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.yardoc</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/refs/remotes/origin/master</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/refs</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.yardoc/proxy_types</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4d/1b8c41714bd1f40105452aa225205889804e0a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/b6</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/31/9027c4ff9b84a11c19603650ef48d65f389079</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/ab</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/8e/ea1c1d86d2e666a5e5cfc960338bbd6e963924</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/ac</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/src/statement/InvalidMovEx.java</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/ad</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/description</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/ae</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/.project</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.yardoc/object_types</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/c1</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/c3</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/c5</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/16/95f9ced5216fbe4d036c5e9cb42974f1420b54</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/c6</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4c/e3ebfce12feedfc2da60045de7c13e9d94c035</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/definition/CheckStatus$Group.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/bin/console</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/logs/HEAD</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.2/Dennis_Chess/bin/statement</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/ea/325067c023f84ec932655b5651fd37f967105b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/70/88e108fe78b741f478ceb657c1a9ea851c563c</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/bb</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/72/8fef46bcc182f9dcf10377b276e6f0c09f4a4a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/hooks/commit-msg.sample</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/4c/fcc393026317e8449b6e4cce3938a283065690</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/logs/refs/heads</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/hooks/pre-rebase.sample</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/a0</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/88/902604093df1712cfbef54c6e7abb0850dcd1e</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/c9/707ff8dc17a6889421da7041b64844bad6c9de</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/a3</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/40/b58a96c8a4e4bdc4963d6fbc561b4eda1d3bb1</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/fb/3803c3d949cbb6b6f8b9bac91944d4bacacd90</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/a9</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/d1</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/d3</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/52/aafc0db5055dba6c2355af98ef5e545e45491a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/6f/c339938062a24e410664b111124021cb6f7be6</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/d6</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/d8</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/COMMIT_EDITMSG</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/80/9eb5616adcc0ebb78862099794489bd5b5b1a0</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.2/Dennis_Chess/src/definition</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/c6/4d0c8f61a40d9957a426e2f9e02f21f9bea928</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/hooks/update.sample</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/cf</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/1d/05629d0154b811eb825dd164c0ca4eb6e444ab</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/pieces/Square.class</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/b0</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/statement</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.idea/CSAir.iml</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/b6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/c5/393d1403283e8ee4399d366216f7b2463a8bca</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/0e/7262213809f2f0d74c6db7e84330ef4c0883a7</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/74/704db0b74468c8c7d55e46019e995f7829d7fc</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/logs</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/pieces/Knight.java</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/e4</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/e6</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/e8</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/ab</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/e9</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/ac</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/7a/bf573724b17587a4db710d5d8d5cc981fe68bc</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/31/d591f067d26b296b03479cd9fcaa34fe3fd412</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/dc</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/9c/2327ef9163ad49898af3a6335e6def80b1591f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/description</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/hooks</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/f4/3736f88cbeae3636f17cbabdf3f224d510f5e2</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/mapStructure/edgeStructure.rb</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/info</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/c1</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/47/b5fcb79bd91ac0e568c7f758c36f3f05f61b9b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.2/Dennis_Chess/bin/GUI</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/c5</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/c6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/35/b26c2e6447af3e33f3a0cd1ff2e934812b44d6</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.2/Dennis_Chess/src/pieces</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f0</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/c9</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/55/a297e3bdd146995d3bce2ec6e6dd8c54c72e2a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f2</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/05/3aaac20e90e2e467a107c64bf47c81ca9179e6</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/20/d9e9802f9bbdb59828dd4addfca5e407ec8bc6</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/hooks/post-update.sample</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f5</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/pieces/Knight.class</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/f9</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/94/336f35edd9e5fcfe3c3234291a3c8e239573c9</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/bd</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/57/9af63c877bf3042dc2632e6cfce4a4609ac543</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/93/fe99bae22b9280bc4fcdf606d0901fd5630074</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/hooks</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/mapStructure/route_structure.rb</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/30/71dd83a5b194478a7faf829cf4e4aa9a37681b</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/b6/2f4b345dee3595955dea0f735053bbffa1026f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/pieces/Pawn.class</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/d3</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/d4</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/src/gameplay/Board.java</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/d6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/a0/8b8f5f997fa98ba6df7060eb5dddc3b7de2852</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.idea/scopes/scope_settings.xml</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/d8</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/pieces/Queen.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/3b/1c40de521b8f18df8b50f350c54e3fb5422b1e</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/Gemfile</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/86/4c0f6a4ba57aa9ecd3d2901f392a550af34866</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/21/2f1df20d5d453b533dbe181d8c25ed9c2c0c23</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/logs/refs/remotes/origin/master</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/44/efc0b1cf759a1aa7c2732dd663fe1c113682e0</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/50/89db2dd01d677a814b9d7c0110abc65a5f2bd9</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/ce</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/cf</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/CSAir.gemspec</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/definition/CheckStatus.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/bb/a418f22d8612eb3a42d82025a5aa315a201dcd</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/fa</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/1a/1199a693666a3e5a74729cd3743238accb7634</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/fb</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/fc</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/src/definition/Team.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/1d/9d7af151cfbb7227976576f034634b3276e362</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/a0/e9df0470168f9ef31f5bf6aa6b12c8b04c9162</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/e4</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/e9</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/0d/9b612a8b7246043f1f573919fe8f963f308c0c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/d4/68102aedc14d884257322dc99c1076d4d0c260</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/refs/remotes</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/8f/e43210d549b60082ca95328dfab4d7d0604494</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/9d/6dd1eaae74106845ac485c640d3f02d9c37b9d</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/f0</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/f2</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/f4</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/f5</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/mapStructure/vertexStructure.rb</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/f6</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/f8</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/CSAir</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/68/c7f5ba2cc4c46a22d3925cf2cbc63c625b45a7</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/f9</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/83/787d657b1915241a0c67824febee49d7ce1d1a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/53/faee95443c28e2eb4aac551e9bb086f5cc1c8f</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/ea</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/f2/85cda2e1afff359e9d027f8f386b4391552e9c</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/hooks/prepare-commit-msg.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/ef</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/statement/InvalidMovEx.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/84/e30457ab6f08266e3f9116b4bc010eb16e8855</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.2/Dennis_Chess/src/gameplay</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/src/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/62/908f2dff9576f5964b741b1d6da46c6cbd62e0</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/bb/256e7538d3199209ca68c6e678f149b46938de</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.gitignore</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/Models/vertex.rb</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/01/897c34cf0f85a3ad27563a98906b2fd2aa9ce2</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/index</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/test/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/fa</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/objects/fb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/52/0cc3da012c01ad5eb27bfe25a8b3403371ec16</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4b/e236d5e0ac5997d2d80e05d8cf9de661280afd</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4c/fcc393026317e8449b6e4cce3938a283065690</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/50/c41b434b6d9ad2538da8c69170464b34ccb571</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/30/49416d08aac0cebca2adf76db87f0e001fcea8</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/bin/test/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/6c/d355bae474aa163b5f2868a6d46b173171f120</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/fc/2459b260bf6473eea40cdcbedef034b84fab3d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.2/Dennis_Chess/src/pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/40/b58a96c8a4e4bdc4963d6fbc561b4eda1d3bb1</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/10/67ca5d3abdc5130c2aec2164f9621af9d68aed</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/index</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/.git/logs/refs/remotes/origin</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.1/CSAir/lib/.git/logs/refs</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/9c/c54d759882584dfc84049a34283840268dd0fc</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/4c/cfb0520d58cba2d499099d28c33ab35f7a0f4f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/1c/9b103d0788cea5ef61b433db33d8a5ff31c336</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/.git/objects/27/684128909c9ac2a8a48e4164f1eddc1f14435d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/FETCH_HEAD</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/c6/4d0c8f61a40d9957a426e2f9e02f21f9bea928</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/f8/13cd4b7a3c93d5aca6d01c0461cfb28130da5b</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/logs/refs/remotes/origin/master</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/logs/HEAD</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/c5/393d1403283e8ee4399d366216f7b2463a8bca</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/pieces/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/pieces/Piece.class</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.2/Dennis_Chess/bin/test/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/lib/.git/objects/35/b42b06f6cc00530182f44ec90eb7b72aaeaf2d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/b6/5ed50ff1f5631e5e1b29cb2bb3eab24a21fa87</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.1/CSAir/.git/objects/d3/e4ee793f0c978442eebf4a510ac968ca191c22</path>
+</paths>
+<msg>Homework CSAir and Chess</msg>
+</logentry>
+<logentry
+   revision="3134">
+<author>dcardos3</author>
+<date>2015-03-01T03:15:00.891401Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/6c/594a75d2de7d4373b0a50b065d096b504ff898</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/f2/7679515c46eb6d82f677600e7741415c617595</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/d8/2104827f5a30f53d9c0af46fa8c8df03a6b83a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/hooks/pre-applypatch.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/d3/e4ee793f0c978442eebf4a510ac968ca191c22</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/4a</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/pack</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/4c</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/4d</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/refs/remotes/origin/master</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/4a/99ca196a3d1e104ae788fdcb00b5344bc82478</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/f0/98ab77248ea2017bfc9324f37422b9c6a07dba</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Gemfile</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/e9/9043c838b01464daff4888918c502a48d19078</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/62</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/d8/2104827f5a30f53d9c0af46fa8c8df03a6b83a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/f2/7679515c46eb6d82f677600e7741415c617595</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/69</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/logs/HEAD</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/hooks/prepare-commit-msg.sample</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/5e</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/69/68cc079fe032739edfe0e661d8e4c94ca8d166</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/f9/c35f57e0978f18e345041ec96724a78b29458b</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/70</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/e0/243e875c673eb0ec0469201c4d259b35127948</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/74</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/Graph/Vertex.rb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Resources/cmi_hub.json</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/78</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/a0/c59c16abaa8ab12734635dadd38643060c36bd</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/8a/b48a8b7ba7981f5c818f8756de2493e499e955</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/6a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/6b</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/ce/9c94c39166ca6820bfcfe372adec3ffcc5fd2d</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/6f</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/bin</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/Test/VertexText.rb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/8c/79cadee49a1dbeeb4e28b8bca95bc82c797f3a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/f9/c35f57e0978f18e345041ec96724a78b29458b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/2f/82bcafd67e81b33d0be7d76d88a935f24f3ca5</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/info/exclude</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/80</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/29/bfad4b3335acd9c3ad804a570404a1050cade8</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/refs/heads</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/84</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/94/a25f7f4cb416c083d265558da75d457237d671</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/bd/98092f675c8861b8468d408b3f9100de01cb04</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/7a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/94/204957dd0572e86c0b6a665f21b6f0c3cfe8c6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/2f/82bcafd67e81b33d0be7d76d88a935f24f3ca5</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/06/2f0d374585b04345ca788fe692ada48a1ae9b8</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/57/9af63c877bf3042dc2632e6cfce4a4609ac543</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/hooks/commit-msg.sample</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/b6</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/Graph/route.rb</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/08</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/hooks/post-update.sample</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/29/bfad4b3335acd9c3ad804a570404a1050cade8</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/25/5eea47377b9dd3c8cb09d5bdd36934ddcdd738</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/ab</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/d6/e4fd76be18b746d6552f57a528a1bb63b1b1fd</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/ac</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/f6/41d34f8331f29200bb9e8646d03466fe293d30</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/ad</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/97/e4db88890ed01e862b1aed389d017a29cf640a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/92</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/93</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/94</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/hooks/update.sample</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/95</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/94/a25f7f4cb416c083d265558da75d457237d671</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/14/ebdb3c6c03f5eb084f84f7ac8a109fc7b0ef3b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/logs/refs/remotes</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/97</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/03/4368ebf7cbb49a058e09611049539e3351d048</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/10</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/49/eee92cc921724221a90a56779e6746c7d0f264</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/c1</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/ab/6596c7a14355c6dc32d9c9ae81ac7d1f4690e1</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/8c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/8e</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/c5</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/Graph</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/c6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/47/83826e425856d823c01d6c1d52290b09d1a98f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/4d/af74e1b71101ec5b863e695f0cc8d33a6ccf29</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/e4/3ebf814ae0bd160f1abda91ce61e900819c30d</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/25/5eea47377b9dd3c8cb09d5bdd36934ddcdd738</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/d6/e4fd76be18b746d6552f57a528a1bb63b1b1fd</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/f6/41d34f8331f29200bb9e8646d03466fe293d30</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/92/2003b8433bcad6ce9778a37628d738faa26389</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/logs/refs/remotes</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/14/ebdb3c6c03f5eb084f84f7ac8a109fc7b0ef3b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/CSAir.gemspec</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/0c/b6eeb0676e0d425ed7ddc8b444bb8bbb9a9797</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/49/eee92cc921724221a90a56779e6746c7d0f264</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/hooks/pre-push.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/ab/6596c7a14355c6dc32d9c9ae81ac7d1f4690e1</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/e4/3ebf814ae0bd160f1abda91ce61e900819c30d</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/9c</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/d3</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/9d</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/26</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/92/2003b8433bcad6ce9778a37628d738faa26389</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/d6</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/d8</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/1f/88198466788519b02ffe61eef719a3cff63cff</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.idea</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/23/392d80ae3ab30ded4560043735d9ef73922e41</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/ef/0f719c39582f0ccd1748f84cede0b5c26a902e</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/0c/b6eeb0676e0d425ed7ddc8b444bb8bbb9a9797</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/refs</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/cf</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/hooks/applypatch-msg.sample</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/e4</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/e6</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/logs/refs/remotes/origin/master</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/logs/refs</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/e9</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/logs/refs/heads</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/ad/e312945a0096a0c9aa245954431adc419fa88d</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/refs</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/cf/983c3dfc658e68171d002a18bd79811ab3239b</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/f2</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/f5</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/hooks</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/refs/remotes/origin</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/f6</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/f9</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/08/f4c8d29b4b78e2ae69a9f2b520b1ee01b0553b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/branches</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/cf/983c3dfc658e68171d002a18bd79811ab3239b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.idea/.name</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.idea</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/logs/refs/remotes/origin</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/57</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/info</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/test</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/hooks/pre-commit.sample</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/51/b38c8cf0a19c30a766d542fba4dd983670c2c9</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/08/f4c8d29b4b78e2ae69a9f2b520b1ee01b0553b</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/hooks/prepare-commit-msg.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/fb</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/fc</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/hooks</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/logs/refs</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/logs</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/refs/tags</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/pack</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/51/b38c8cf0a19c30a766d542fba4dd983670c2c9</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/78/fb69fd60dbe1763d46bb2a09dafb82d33f3236</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/f6/662abc231936db471f9df968e4a9e9c5c09f91</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/ab/ab8f0ed9569ba29fcee6e61489fd50caf8554c</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/f8/60597a052a297c9790c266d2046dc177b139bc</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/9d/38ed2bdabd57d0d41377133f041b15e7e8ba57</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/d3/e4ee793f0c978442eebf4a510ac968ca191c22</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/5e/d6bfed9a1c8b9eed256bfd7e1dab270b33ded8</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/Test/GraphTest.rb</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/ac/47ab429eb5db756f813b014134e3b20a84a562</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/logs</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/f6/662abc231936db471f9df968e4a9e9c5c09f91</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/ab/ab8f0ed9569ba29fcee6e61489fd50caf8554c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/d8/2104827f5a30f53d9c0af46fa8c8df03a6b83a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/pack</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/5e/d6bfed9a1c8b9eed256bfd7e1dab270b33ded8</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/6b/f20fa3a5c96536f53c0e3cc8e6243db88baa48</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/c1/e0f7d1ffe3076dabe874272ea35b7e85790f94</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/logs/refs/heads</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/f5/456c2d3c48b26ddb1f9eaf49b52f8af0684cde</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/hooks/applypatch-msg.sample</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/refs/remotes/origin/master</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/62/cbd8ce315891a23fa210a146687ad42d8366d4</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/26/7a24958ccc90c608ee17ce3cf3437b98c3c180</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/6b/f20fa3a5c96536f53c0e3cc8e6243db88baa48</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/c1/e0f7d1ffe3076dabe874272ea35b7e85790f94</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/refs/heads</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/info/exclude</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/refs/tags</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/hooks/pre-commit.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/f5/456c2d3c48b26ddb1f9eaf49b52f8af0684cde</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/22/22a83a187fa0b69eba96389d6921760481df97</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/config</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/index</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/62/cbd8ce315891a23fa210a146687ad42d8366d4</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/26/7a24958ccc90c608ee17ce3cf3437b98c3c180</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/b0/10c46c8c146b5272212f1ec659699101201359</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/37/d7896cff0be1dc9390f7537dda9c5f706523e6</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/92</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/CODE_OF_CONDUCT.md</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/94</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/hooks/post-update.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/15/7f006d17ab31850578115eca9adf18d2668dc7</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/FETCH_HEAD</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/32/09914cb54f7cf41e2787c67dd336b26b6d69df</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/b6/e61b76141c7e792c7cbd8410644712b501b5d3</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.idea/.rakeTasks</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/23/8d15b5fa84c084ea3c9801bc394e57be697fb2</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/description</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/a0</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/info/exclude</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/LICENSE.txt</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/4d/1b8c41714bd1f40105452aa225205889804e0a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/37/d7896cff0be1dc9390f7537dda9c5f706523e6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/ab/e1e5d3f9c420f15811e46115cbd9b9cc37dc1f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/15/7f006d17ab31850578115eca9adf18d2668dc7</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/index</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/94/a25f7f4cb416c083d265558da75d457237d671</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/b6/e61b76141c7e792c7cbd8410644712b501b5d3</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/8e/ea1c1d86d2e666a5e5cfc960338bbd6e963924</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/23/8d15b5fa84c084ea3c9801bc394e57be697fb2</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/b0</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/4d/1b8c41714bd1f40105452aa225205889804e0a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/74/a8ac39248472fb2050cd57b2f69334155f5d8a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/hooks/post-update.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/b6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.idea/CSAir.iml</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/32/d9d1bb407c8ac264500a4223097b216bf19ece</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/CSAir</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/CSAir.rb</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/4c/e3ebfce12feedfc2da60045de7c13e9d94c035</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/ab</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/8e/ea1c1d86d2e666a5e5cfc960338bbd6e963924</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/ac</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/hooks/pre-rebase.sample</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/10/5bdf05e021d1767793a9d157694d36a133d03b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/hooks/update.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/c1</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/92/2003b8433bcad6ce9778a37628d738faa26389</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/c5</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/16/95f9ced5216fbe4d036c5e9cb42974f1420b54</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/c6</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/info</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/logs/HEAD</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/80/9eb5616adcc0ebb78862099794489bd5b5b1a0</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/51/a874cd72a000fe91794465692814cc1680d614</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/bd</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/hooks/commit-msg.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/01</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/hooks/pre-applypatch.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/06</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/08</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/45/c23a9ca118185b1da0187d410d9930ccd6dca9</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/d3</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/d4</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/0e/7262213809f2f0d74c6db7e84330ef4c0883a7</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/d6</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.idea/scopes/scope_settings.xml</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/d8</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/74/704db0b74468c8c7d55e46019e995f7829d7fc</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/COMMIT_EDITMSG</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/80/9eb5616adcc0ebb78862099794489bd5b5b1a0</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/HEAD</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/7a/bf573724b17587a4db710d5d8d5cc981fe68bc</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/6a/875f0a38734cb65b4d59c2ebdce85fb1f3fb4a</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/ce</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/cf</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/14</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/15</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/9c/2327ef9163ad49898af3a6335e6def80b1591f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/95/13e2f4e25ce0125756540f73a6fa97d5c59ed7</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/0e/7262213809f2f0d74c6db7e84330ef4c0883a7</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/74/704db0b74468c8c7d55e46019e995f7829d7fc</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/e4</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/0c</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/0d</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/0e</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/e9</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/7a/bf573724b17587a4db710d5d8d5cc981fe68bc</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/description</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/logs/refs/remotes/origin</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/93/fe99bae22b9280bc4fcdf606d0901fd5630074</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/9c/2327ef9163ad49898af3a6335e6def80b1591f</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/21</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Rakefile</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/hooks</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/23</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/description</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/info</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/25</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/26</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/27</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/74/cf5b0d1ef8d7a60c97a45fbf0309ce7c699b64</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/29</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/f0</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/f2</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/1a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/27/2e6ca11f4983d95161c6c3c2bfb2821e93bbc3</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/f4</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/1c</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/f5</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/f6</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/1f</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/f8</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/f9</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/08/f4c8d29b4b78e2ae69a9f2b520b1ee01b0553b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/bin/setup</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/21/2f1df20d5d453b533dbe181d8c25ed9c2c0c23</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Resources</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/93/fe99bae22b9280bc4fcdf606d0901fd5630074</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/30</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/ef</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/32</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/33</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/hooks/commit-msg.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/1a/1199a693666a3e5a74729cd3743238accb7634</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/37</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/info</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/21/2f1df20d5d453b533dbe181d8c25ed9c2c0c23</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/logs/refs/remotes/origin/master</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/2f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/0d/9b612a8b7246043f1f573919fe8f963f308c0c</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.idea/scopes</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/fa</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/fa/b697549ae42cb17988fa6f45e0fec87f81a2fb</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/40</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/44</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/47</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/49</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/f6/662abc231936db471f9df968e4a9e9c5c09f91</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/Graph/Metro.rb</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/68/c7f5ba2cc4c46a22d3925cf2cbc63c625b45a7</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/bin/console</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/83/787d657b1915241a0c67824febee49d7ce1d1a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/d4/18bad7381cab74b3c700c387d83418d2db3162</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/refs/remotes</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/50</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/51</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/52</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/53</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/55</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/57</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/COMMIT_EDITMSG</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/59</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/4a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.gitignore</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/4c</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/4d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/hooks/prepare-commit-msg.sample</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/31/9027c4ff9b84a11c19603650ef48d65f389079</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.idea/Assignment2.0-CSAir.iml</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/refs/remotes</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/62</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/26/7a24958ccc90c608ee17ce3cf3437b98c3c180</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/4c/fcc393026317e8449b6e4cce3938a283065690</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/68</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/fc/2459b260bf6473eea40cdcbedef034b84fab3d</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/40/b58a96c8a4e4bdc4963d6fbc561b4eda1d3bb1</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/index</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/5e</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/4c/cfb0520d58cba2d499099d28c33ab35f7a0f4f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/hooks/pre-push.sample</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/70/88e108fe78b741f478ceb657c1a9ea851c563c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/4c/fcc393026317e8449b6e4cce3938a283065690</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/74</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/c6/4d0c8f61a40d9957a426e2f9e02f21f9bea928</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Gemfile.lock</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/40/b58a96c8a4e4bdc4963d6fbc561b4eda1d3bb1</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.idea/scopes</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/ab</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/logs/refs</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/52/aafc0db5055dba6c2355af98ef5e545e45491a</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/c5/393d1403283e8ee4399d366216f7b2463a8bca</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/6b</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/6f/c339938062a24e410664b111124021cb6f7be6</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/6c</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/c6/4d0c8f61a40d9957a426e2f9e02f21f9bea928</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/80</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/refs/heads</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/83</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/c5/393d1403283e8ee4399d366216f7b2463a8bca</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/ac/e42c6cff94c581de7f0212c7bc3e2bcb52142f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/47/b5fcb79bd91ac0e568c7f758c36f3f05f61b9b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/refs</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/7a</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/7c</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/55/a297e3bdd146995d3bce2ec6e6dd8c54c72e2a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/94/336f35edd9e5fcfe3c3234291a3c8e239573c9</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/57/9af63c877bf3042dc2632e6cfce4a4609ac543</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/d3</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/ORIG_HEAD</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/Test/ReaderTest.rb</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/92</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/f4/3736f88cbeae3636f17cbabdf3f224d510f5e2</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/93</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/94</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/d8</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/b6/2f4b345dee3595955dea0f735053bbffa1026f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/1f/050c5b4bb7fc6096d23c61ccd282d58b8b967b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/47/b5fcb79bd91ac0e568c7f758c36f3f05f61b9b</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/55/a297e3bdd146995d3bce2ec6e6dd8c54c72e2a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/20/d9e9802f9bbdb59828dd4addfca5e407ec8bc6</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/8a</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/Graph/reader.rb</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/8e</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/branches</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/94/336f35edd9e5fcfe3c3234291a3c8e239573c9</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/57/9af63c877bf3042dc2632e6cfce4a4609ac543</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/44/efc0b1cf759a1aa7c2732dd663fe1c113682e0</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/50/89db2dd01d677a814b9d7c0110abc65a5f2bd9</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/30/71dd83a5b194478a7faf829cf4e4aa9a37681b</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/e0</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.idea/encodings.xml</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/b6/2f4b345dee3595955dea0f735053bbffa1026f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/59/1af0682d3490074adf015807b0482de5ea94e3</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/refs/tags</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/27/9332f87efd11081aea9afe3dd3c118100b8c72</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/3b/1c40de521b8f18df8b50f350c54e3fb5422b1e</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/01</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/9c</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/44/efc0b1cf759a1aa7c2732dd663fe1c113682e0</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/03</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/50/89db2dd01d677a814b9d7c0110abc65a5f2bd9</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/08</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/hooks/applypatch-msg.sample</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/Test</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Resources/map_data.json</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/hooks/pre-rebase.sample</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/objects/f6</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/hooks/pre-applypatch.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/logs/refs/heads/master</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/10</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/lib/.git/logs</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/hooks/update.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/14</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/15</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/33/2642a7cd290c3f7d45c576629873406162796b</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/16</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/d4/68102aedc14d884257322dc99c1076d4d0c260</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/53/faee95443c28e2eb4aac551e9bb086f5cc1c8f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/logs/refs/heads/master</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/0c</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/0e</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/refs/remotes/origin</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/hooks/pre-commit.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/Graph/graph.rb</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/20</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/53/faee95443c28e2eb4aac551e9bb086f5cc1c8f</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/21</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/config</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/22</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/23</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/25</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/f2/85cda2e1afff359e9d027f8f386b4391552e9c</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/26</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/27</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/info</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/01/897c34cf0f85a3ad27563a98906b2fd2aa9ce2</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/29</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/59/e379094530a889969a55ea2f71afb09808d6f8</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/52/0cc3da012c01ad5eb27bfe25a8b3403371ec16</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/84/e30457ab6f08266e3f9116b4bc010eb16e8855</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/1c</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/1f</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/50/c41b434b6d9ad2538da8c69170464b34ccb571</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/fb/319feac26a9f52e39f6e93c4f99fd9ca3b280e</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/30/49416d08aac0cebca2adf76db87f0e001fcea8</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/COMMIT_EDITMSG</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/30</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/01/897c34cf0f85a3ad27563a98906b2fd2aa9ce2</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/31</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/32</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/52/0cc3da012c01ad5eb27bfe25a8b3403371ec16</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/37</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/27/684128909c9ac2a8a48e4164f1eddc1f14435d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/1c/9b103d0788cea5ef61b433db33d8a5ff31c336</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.git/HEAD</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/README.md</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/info</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/logs/refs/heads</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/hooks/pre-rebase.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/50/c41b434b6d9ad2538da8c69170464b34ccb571</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/2f</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/30/49416d08aac0cebca2adf76db87f0e001fcea8</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/b6/c721decf095874315416d70b65c98ea9b0a80e</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/10/67ca5d3abdc5130c2aec2164f9621af9d68aed</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/logs/HEAD</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/Graph/edge.rb</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/40</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/1c/9b103d0788cea5ef61b433db33d8a5ff31c336</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/27/684128909c9ac2a8a48e4164f1eddc1f14435d</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.idea/encodings.xml</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/44</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/45</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/logs/refs/heads/master</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/47</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/branches</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/49</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/.git/objects/f8/13cd4b7a3c93d5aca6d01c0461cfb28130da5b</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/3b</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/b6/5ed50ff1f5631e5e1b29cb2bb3eab24a21fa87</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/CSAir/version.rb</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/Assignment2.0-CSAir/.idea/vcs.xml</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/HEAD</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/d3/e4ee793f0c978442eebf4a510ac968ca191c22</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/config</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/hooks/pre-push.sample</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/4a/99ca196a3d1e104ae788fdcb00b5344bc82478</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/50</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/51</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/52</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/53</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment2.0/CSAir/.git/objects/55</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/7c/2b89cb63c5186bb86ef8f069efb409caccfe9a</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/57</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/lib/.git/objects/e9/9043c838b01464daff4888918c502a48d19078</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment2.0/CSAir/.git/objects/b6/5ed50ff1f5631e5e1b29cb2bb3eab24a21fa87</path>
+</paths>
+<msg>Assignment 2.0 CSAir</msg>
+</logentry>
+<logentry
+   revision="3133">
+<author>dcardos3</author>
+<date>2015-03-01T03:11:58.231195Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment2.0</path>
+</paths>
+<msg>Assignment 2.0 - CSair folder</msg>
+</logentry>
+<logentry
+   revision="2515">
+<author>dcardos3</author>
+<date>2015-02-23T09:27:27.716625Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/statement</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/gameplay/Board.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/test/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/.classpath</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/src/pieces/Piece.java</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.1/Dennis_Chess/src/test</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/src/pieces/King.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/src/definition/CheckStatus.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/src/definition/Team.java</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.1/Dennis_Chess/src/gameplay</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/src/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.1</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/src/test/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/src/pieces/Queen.java</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/pieces</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/test/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/gameplay/Position.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/test/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/test/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/test/BoardTest.java</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/.settings</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/test/KingTest.java</path>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/definition</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/gameplay/Game.java</path>
+<path
+   kind="file"
+   action="A">/dcardos3/Assignment1.1/Dennis_Chess/src/statement/OOBoardException.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/src/statement/InvalidMovEx.java</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/.project</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment1.1/Dennis_Chess/src/pieces/Pawn.java</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment1.1/Dennis_Chess/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2514">
+<author>dcardos3</author>
+<date>2015-02-23T09:09:43.083806Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/dcardos3/Assignment1</path>
+</paths>
+<msg>Sending my assignment1 folder</msg>
+</logentry>
+<logentry
+   revision="455">
+<author>dcardos3</author>
+<date>2015-02-06T01:18:11.347956Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment0/Tictactoe/._tictactoe.cpp</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment0/Tictactoe/tictactoe.exe</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment0/Tictactoe</path>
+<path
+   action="A"
+   kind="file">/dcardos3/Assignment0/Tictactoe/tictactoe.cpp</path>
+<path
+   action="A"
+   kind="dir">/dcardos3/Assignment0</path>
+</paths>
+<msg>Teste 455</msg>
+</logentry>
+<logentry
+   revision="34">
+<author>root</author>
+<date>2015-02-04T16:45:15.503774Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/dcardos3</path>
+</paths>
+<msg>created directory dcardos3</msg>
+</logentry>
+</log>
